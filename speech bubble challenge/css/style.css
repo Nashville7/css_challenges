@@ -1,0 +1,39 @@
+#speech-bubble {
+    background-color: rgb(41, 173, 218);
+    border: 1px solid rgb(41, 173, 218);
+    border-radius: 5px;
+    width: 16em;
+    height: 4em;
+    padding: 60px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 1rem;
+}
+
+.arrow {
+    height: 3rem;
+    width: 9rem;
+    background:  rgb(41, 173, 218);
+    transform: skew(-252deg);
+    margin-left: -69px;
+    position: absolute;
+    bottom: 120px;
+}
+
+.arrow2 {
+    height: 3rem;
+    width: 9rem;
+    background:  rgb(41, 173, 218);
+    transform: skew(252deg);
+    margin-left: -69px;
+    position: absolute;
+    bottom: 72px;
+}
+
+
+
+
+
+
