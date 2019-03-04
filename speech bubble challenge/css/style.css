@@ -1,3 +1,4 @@
+/* Properties of the speech bubble */
 #speech-bubble {
     background-color: rgb(41, 173, 218);
     border: 1px solid rgb(41, 173, 218);
@@ -12,6 +13,7 @@
     border-radius: 1rem;
 }
 
+/* properties of the arrows */
 .arrow {
     height: 3rem;
     width: 9rem;
