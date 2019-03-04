@@ -1,15 +1,12 @@
 /* imported google font for the second paragraph */
-
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 
 /* my first font */
-
 body {
     font-family: 'Noto Serif', serif;
 }
 
 /* my second font */
-
 .second-paragraph {
     font-family: 'Indie Flower', cursive;
 }
