@@ -1,8 +1,10 @@
+/* Properties of the whole body */
 body {
     background-color: rgba(194, 102, 60, 0.445);
     text-align: justify;
 }
 
+/* Properties for heading tag 1 to 6 */
 h1,
 h2,
 h3,
@@ -12,6 +14,7 @@ h6 {
     color: rgb(255, 83, 21);
 }
 
+/* properties of the paragraph tag */
 p {
     font-family: 'Noto Serif SC', serif;
 }
