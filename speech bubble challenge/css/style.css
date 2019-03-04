@@ -16,7 +16,7 @@
     height: 3rem;
     width: 9rem;
     background:  rgb(41, 173, 218);
-    transform: skew(-252deg);
+    transform: skew(-239deg);
     margin-left: -69px;
     position: absolute;
     bottom: 120px;
@@ -26,7 +26,7 @@
     height: 3rem;
     width: 9rem;
     background:  rgb(41, 173, 218);
-    transform: skew(252deg);
+    transform: skew(240deg);
     margin-left: -69px;
     position: absolute;
     bottom: 72px;
