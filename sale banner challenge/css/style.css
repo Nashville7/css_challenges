@@ -1,8 +1,10 @@
+/* properties of the whole document */
 body {
     overflow-x: hidden;
     background-color: rgba(167, 156, 143, 0.445);
 }
 
+/* properties of ribbon */
 .ribbon {
     width: 50%;
     position: relative;
@@ -15,9 +17,9 @@ body {
     float: right;
     left: 250px;
     border: 5px solid rgb(255, 255, 255);
-
 }
 
+/* a tag tag properties */
 a {
     font-size: 26px;
     text-decoration: none;
